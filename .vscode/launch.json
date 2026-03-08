@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sumofuniqueelement",
+            "request": "launch",
+            "mainClass": "Arrays.Sumofuniqueelement",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
             "name": "LeadersArray",
             "request": "launch",
             "mainClass": "Arrays.LeadersArray",
