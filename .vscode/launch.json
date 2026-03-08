@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LeadersArray",
+            "request": "launch",
+            "mainClass": "Arrays.LeadersArray",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "AlternatePositiveNegativeNumber",
+            "request": "launch",
+            "mainClass": "Arrays.AlternatePositiveNegativeNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "RearrangeElementsBySign",
+            "request": "launch",
+            "mainClass": "Arrays.RearrangeElementsBySign",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "LeetcodeProblem.MajorityElement",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubarraywithsumk",
+            "request": "launch",
+            "mainClass": "GeeksforGeeks.LongestSubarraywithsumk",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "SubarrayIndicessum",
+            "request": "launch",
+            "mainClass": "GeeksforGeeks.SubarrayIndicessum",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "MissingElement",
+            "request": "launch",
+            "mainClass": "GeeksforGeeks.MissingElement",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Rightrotate",
+            "request": "launch",
+            "mainClass": "Arrays.Rightrotate",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionUnsortedArrays",
+            "request": "launch",
+            "mainClass": "Arrays.IntersectionUnsortedArrays",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "UnionSortedArrays",
+            "request": "launch",
+            "mainClass": "Arrays.UnionSortedArrays",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "leftRotated",
+            "request": "launch",
+            "mainClass": "Arrays.leftRotated",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort3",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort3",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "QuickSorrt2",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSorrt2",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "LongestCOmmonPrefix",
+            "request": "launch",
+            "mainClass": "LeetcodeProblem.LongestCOmmonPrefix",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Patternmatching",
+            "request": "launch",
+            "mainClass": "EvenCharacterPrinting.Patternmatching",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Evencharacter",
+            "request": "launch",
+            "mainClass": "EvenCharacterPrinting.Evencharacter",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "InsertionsortAnotherMethod",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionsortAnotherMethod",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSortAnotherMethod",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSortAnotherMethod",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "DesignHashMap",
+            "request": "launch",
+            "mainClass": "Hashing.DesignHashMap",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "Hashing.Hashset",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Hashing.Hashmap",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "StringHashing",
+            "request": "launch",
+            "mainClass": "Hashing.StringHashing",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyCount",
+            "request": "launch",
+            "mainClass": "Hashing.FrequencyCount",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactorization",
+            "request": "launch",
+            "mainClass": "PrimeFactorization",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "fibonaccianothermethod",
+            "request": "launch",
+            "mainClass": "MultipleRecursion.fibonaccianothermethod",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber",
+            "request": "launch",
+            "mainClass": "MultipleRecursion.FibonacciNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Fibonaccinumber",
+            "request": "launch",
+            "mainClass": "Fibonaccinumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber",
+            "request": "launch",
+            "mainClass": "FibonacciNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Stringpallindrome1",
+            "request": "launch",
+            "mainClass": "Stringpallindrome1",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReversebyPointer",
+            "request": "launch",
+            "mainClass": "ArrayReversebyPointer",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "CountNumber",
+            "request": "launch",
+            "mainClass": "CountNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "StringPallindrome",
+            "request": "launch",
+            "mainClass": "StringPallindrome",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverse",
+            "request": "launch",
+            "mainClass": "ArrayReverse",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "FactorialNumber",
+            "request": "launch",
+            "mainClass": "FactorialNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "FactorialNUmber",
+            "request": "launch",
+            "mainClass": "FactorialNUmber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ParameterisedSum",
+            "request": "launch",
+            "mainClass": "ParameterisedSum",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "SumOfTheNumber",
+            "request": "launch",
+            "mainClass": "SumOfTheNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "LeetcodeProblem.Solution",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Concatenation",
+            "request": "launch",
+            "mainClass": "Concatenation",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "BacktrackPrintLinearly2",
+            "request": "launch",
+            "mainClass": "BacktrackPrintLinearly2",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "PrintLinearl2",
+            "request": "launch",
+            "mainClass": "PrintLinearl2",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "PrintLinearlyNumber",
+            "request": "launch",
+            "mainClass": "PrintLinearlyNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "printNames",
+            "request": "launch",
+            "mainClass": "printNames",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "RecursionBasicProblem",
+            "request": "launch",
+            "mainClass": "RecursionBasicProblem",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "RecursionProblem",
+            "request": "launch",
+            "mainClass": "RecursionProblem",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "GcdEucleadianMaths",
+            "request": "launch",
+            "mainClass": "GcdEucleadianMaths",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ReversedInteger",
+            "request": "launch",
+            "mainClass": "ReversedInteger",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "PrintAllDivisor",
+            "request": "launch",
+            "mainClass": "PrintAllDivisor",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "GCDprogram",
+            "request": "launch",
+            "mainClass": "GCDprogram",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Pallindrome",
+            "request": "launch",
+            "mainClass": "Pallindrome",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "DaysBeforeNDays",
+            "request": "launch",
+            "mainClass": "DaysBeforeNDays",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzzProgram",
+            "request": "launch",
+            "mainClass": "FizzBuzzProgram",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "TypeCastInt",
+            "request": "launch",
+            "mainClass": "TypeCastInt",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "PrimeCheck",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

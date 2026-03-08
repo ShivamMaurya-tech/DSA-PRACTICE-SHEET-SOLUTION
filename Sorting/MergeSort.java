@@ -1,0 +1,51 @@
+package Sorting;
+
+import java.util.ArrayList;
+
+public class MergeSort {
+    public static void mergeSort(int arr[], int l, int r) {
+        if (l >= r)
+            return;
+        int mid = (l + r) / 2;
+        mergeSort(arr, l, mid);
+        mergeSort(arr, mid + 1, r);
+        merge(arr, l, mid, r);
+
+    }
+
+    public static void merge(int arr[], int l, int mid, int r) {
+        ArrayList<Integer> temp = new ArrayList<>();
+        int left = l;
+        int right = mid + 1;
+        while (left <= mid && right <= r) {
+            if (arr[left] <= arr[right]) {
+                temp.add(arr[left]);
+                left++;
+            } else {
+                temp.add(arr[right]);
+                right++;
+            }
+
+        }
+        while (left <= mid) {
+            temp.add(arr[left]);
+            left++;
+        }
+        while (right <= r) {
+            temp.add(arr[right]);
+            right++;
+        }
+        for (int k = 0; k < temp.size(); k++) {
+            arr[l + k] = temp.get(k);
+        }
+    }
+
+    public static void main(String args[]) {
+        int arr[] = { 5, 4, 3, 2, 1 };
+        int n = arr.length;
+        mergeSort(arr, 0, n - 1);
+        for (int i = 0; i < n; i++) {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}

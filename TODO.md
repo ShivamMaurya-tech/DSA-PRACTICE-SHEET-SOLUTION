@@ -1,0 +1,4 @@
+- Add swap method to ArrayReversebyPointer.java
+- Rename printNumber to reverseArray
+- Fix swap call in reverseArray method
+- Update main method: remove invalid swap call, add reverseArray call, add array printing
