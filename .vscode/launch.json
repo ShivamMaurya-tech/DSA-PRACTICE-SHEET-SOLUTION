@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IndexOfFirstOccurence",
+            "request": "launch",
+            "mainClass": "LeetcodeProblem.IndexOfFirstOccurence",
+            "projectName": "DSA PROBLEM_eca3a5d8"
+        },
+        {
+            "type": "java",
             "name": "Sumofuniqueelement",
             "request": "launch",
             "mainClass": "Arrays.Sumofuniqueelement",
